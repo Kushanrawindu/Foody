@@ -83,7 +83,7 @@ nav {
 
 /********************** Discover Section ***********************/
 
-/* .discover-section {
+.discover-section {
     background-color: #e0dfdf;
     display: flex;
     justify-content: center;
@@ -171,7 +171,7 @@ nav {
     font-family: 'Oswald', sans-serif;
     letter-spacing: 4px;
     margin-bottom: 15px;
-} */
+}
 
 /********************** Specialities Section ***********************/
 
